@@ -1,4 +1,10 @@
-## Hi there 👋
+## Much Halloness to you 👋
+He/Him | 20 
+
+I am currently a Software Engineering student attending Arizona State Univerity.
+I'm learning how to use GitHub for professional software development in the future.
+Let me know if you have any tips on anything software related.
+
 
 <!--
 **ZiitoZnarf/ZiitoZnarf** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
