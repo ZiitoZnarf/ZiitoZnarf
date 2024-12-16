@@ -3,6 +3,7 @@ He/Him | 20
 
 I am currently a Software Engineering student attending Arizona State Univerity.
 I'm learning how to use GitHub for professional software development in the future.
+Many of my repositories are filled with class projects or Barrett Honors Enrichment Contracts which I have completed.
 Let me know if you have any tips on anything software related.
 
 
