@@ -1,10 +1,10 @@
 ## Much Halloness to you 👋
 He/Him | 20 
 
-I am currently a Software Engineering student attending Arizona State Univerity.
-I'm learning how to use GitHub for professional software development in the future.
+I am currently a Software Engineering junior attending Arizona State Univerity.
 Many of my repositories are filled with class projects or Barrett Honors Enrichment Contracts which I have completed.
-Let me know if you have any tips on anything software related.
+I am most interested in web development, computer networking, and software security.
+Let me know if you have any tips or resources that would apply to any area of software development.
 
 
 <!--
